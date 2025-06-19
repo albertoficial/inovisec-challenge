@@ -38,6 +38,7 @@ Esta aplicación es una maqueta de un sistema de mapas interactivos desarrollada
 4. **Abrir en el navegador**
    - La aplicación estará disponible en `http://localhost:5173`
    - Se redirigirá automáticamente a la página de login
+   - Las credenciales correctas son: inovisec@example.com y pass: inovisec
 
 ### Otros comandos disponibles
 
