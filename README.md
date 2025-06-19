@@ -4,6 +4,8 @@
 
 Esta aplicación es una maqueta de un sistema de mapas interactivos desarrollada como parte del desafío técnico de Inovisec. La aplicación permite a los usuarios autenticarse y visualizar un mapa interactivo con funcionalidades de marcadores y gestión de casos.
 
+**🎨 Diseño basado en:** [Figma Mockup - Inovisec](https://www.figma.com/design/yntjFLquIClYafIM9bTvJy/Inovisec-Mockup?node-id=0-1&m=dev&t=odK4fZD4xnXSILCC-1)
+
 ## 🚀 Instrucciones de Instalación y Ejecución
 
 ### Prerrequisitos
